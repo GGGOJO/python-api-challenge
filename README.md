@@ -51,7 +51,7 @@ Use Google Places API to find the first hotel for each filtered city that is loc
 
 Plot the hotels on top of the first heat map that pins the Hotel Name, City, and Country.
 
-##Written Oberservations
+## Written Oberservations
 For Part I, 
   3 overall written observations of the WeatherPy have been placed at the top of the notebook. 
   1-2 sentences were provided for each plot within the WeatherPy notebook
@@ -59,7 +59,7 @@ For Part I,
 For Part II, 
   Two screenshots were provided - the original heatmap and the marked layer heatmap.
 
-##Reflections/After Thoughts
+## Reflections/After Thoughts
 The most difficult part of this challenge was getting the Google api key. I started early to register for one but when I tried to used it in Jupyter Notebook, I received error messages. I'd like to use Google maps again for other analysis coding, but it seems the biggest hurdle is getting the api key to work?!?
 
 
